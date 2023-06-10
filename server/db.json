@@ -1,0 +1,12 @@
+{
+  "ice-creams": [
+{
+"id":1,
+"Name":"Dark Chocolate",
+"Flavor":"Chocolate",
+"Description":"Rich, creamy chocolate ice cream."
+"Price":250,
+"Stock":10
+}],
+"cart":[]
+}
